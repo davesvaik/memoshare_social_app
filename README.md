@@ -9,7 +9,7 @@ This project was created for educational purposes. Social media apps are high in
 
 ### UI video
 
-![Main](social_media_app\social_media_frontend\public\MemoShare.gif)
+![Main](https://github.com/davesvaik/memoshare_social_app/blob/main/social_media_frontend/public/MemoShare.gif)
 
 ### Tech/Frameworks
 
